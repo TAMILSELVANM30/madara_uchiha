@@ -2,7 +2,7 @@
 Fan-made HTML/CSS webpage with forms, tables, audio, images, and Uchiha clan theme.
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
-# The Great Not Empire (HTML/CSS Practice)
+# My Inspiration (HTML/CSS Practice)
 
 This repository contains my practice project while learning HTML and CSS.  
 It demonstrates different elements such as:
